@@ -1,0 +1,7 @@
+.katex { color: #006; }
+.dark .katex { color: #DEF; }
+
+.slidev-layout {
+  font-size: 1.3em
+}
+
