@@ -29,7 +29,7 @@ info: >
 css: unocss
 title: Deep Learning
 subtitle: Recurrent Neural Networks
-date: 26/02/2024
+date: 10/02/2024
 venue: HSE
 author: Alexey Boldyrev
 ---
@@ -55,9 +55,9 @@ author: Alexey Boldyrev
 NB: This demo uses a custom syntax (using preparser extensions), with all the @@@@.
 -->
 
----
-src: ./slides/0_attendance.md
----
+# ---
+# src: ./slides/0_attendance.md
+# ---
 
 ---
 src: ./slides/0_outline.md
